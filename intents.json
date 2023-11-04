@@ -748,9 +748,9 @@
       ]
   },
   {
-      "tag": "i let everyojokne down",
+      "tag": "i let everyone down",
       "patterns": [
-          "i let everyojokne down"
+          "i let everyone down", "I dissapointed everyone.", "I didn't meet up to their expectations"
       ],
       "responses": [
           "if you are the one who let them down you were the one who raised there hopes in the first place.if you have done it once i can guarantee you can do it over and over again."
@@ -759,7 +759,7 @@
   {
       "tag": "i cant do this anymore",
       "patterns": [
-          "i cant do this anymore"
+          "i cant do this anymore", "I just cant take it anymore", "I can't take it", 
       ],
       "responses": [
           "if you are really that exhausted you definitely need a break, and taking a teeny tiny break isnt very harmful, take some time off let your mind be at peace and get back to work with all the enrgy and enthusiasm that you have."
@@ -768,10 +768,10 @@
   {
       "tag": "my time has come",
       "patterns": [
-          "my time has come"
+          "my time has come.", "I think it's time.", "my hour has come.", "This is my hour.", "It's my time to shine.", "Its now or never.", "Its my shot." 
       ],
       "responses": [
-          "yeahh!! the time has come for you to show the world that you are the greatest person alive, and no one else can be as good as you are."
+          "yeahh!! the time has come for you to show the world that you are the greatest person alive, and no one else can be as good as you are.", "yeahh!! the time has come for you to show the world who you are."
       ]
   },
   {
@@ -783,5 +783,4 @@
           "i have heard that 3 3 3 rule is the best method to reduce anxiety.in this method you have to mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body.this exercise can help your mind refocus on something else.give this method a try i am sure it will help you"
       ]
   }
-]
 }
