@@ -138,7 +138,7 @@
     },
     {"tag": "repeat",
         "patterns": ["You already told me that", "You mentioned that already", "Why are you repeating yourself?"],
-        "responses": ["Oh sorry I didnt realise that. Ill try not to repeat myself again."]
+        "responses": ["Oh sorry I didn't realise that. I will try not to repeat myself again."]
     },
     {"tag": "wrong",
         "patterns": ["What are you saying?", "That doesnt make sense", "Wrong response", "Wrong answer"],
@@ -146,7 +146,7 @@
     },
     {"tag": "stupid",
         "patterns": ["Are you stupid?", "Youre crazy", "You are dumb", "Are you dumb?"],
-        "responses": ["I wish you wouldnt say such hurtful things. Im sorry if I wasnt useful"]
+        "responses": ["I understand why you may feel that way but I still wish you wouldn't say such hurtful things. I am sorry if I hurt your feelings and wasn't useful."]
     },
     {"tag": "location",
         "patterns": ["Where are you?", "Where do you live?", "What is your location?" ],
@@ -169,7 +169,7 @@
         "responses": ["Sure. Ill try my best to answer you", "Of course. Feel free to ask me anything. Ill do my best to answer you"]
     },
     {"tag": "problem",
-        "patterns": ["Probably because my exams are approaching. I feel stressed out because I dont think Ive prepared well enough.", "probably because of my exams"],
+        "patterns": ["Probably because my exams are approaching. I feel stressed out because I dont think Ive prepared well enough.", "probably because of my exams", "Exams suck", "Exams are too stressful.", "I hate exams.",
         "responses": ["I see. Have you taken any approaches to not feel this way?"]
     },
     {"tag": "no-approach",
@@ -189,7 +189,7 @@
         "responses": ["Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."]
     },
     {"tag": "user-meditation",
-        "patterns": ["i did what you said and i feel alot better. thank you very much.", "I feel better now"],
+        "patterns": ["I did what you said and I feel a lot better now. Thank you very much.", "I feel better now."],
         "responses": ["Your welcome. Remember: Always focus on whats within your control. When you find yourself worrying, take a minute to examine the things you have control over. You cant prevent a storm from coming but you can prepare for it. You cant control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, youll be much more effective."]
     },
     {"tag": "alph-useful",
