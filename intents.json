@@ -5,10 +5,10 @@
     },
     {"tag":"doing-good",
         "patterns": ["I am doing good", "I am doing well", "I am fine", "I am feeling good", "Im feeling good", "Im feeling well", "I am alright", "Im doing great", "Im doing excellent", "I feel alive"],
-        "responses": ["I'm glad to hear that. Keep it up", "I am happy to hear that", "Thats good to hear"]
+        "responses": ["I'm glad to hear that. Keep it up", "I am happy to hear that", "Thats good to hear"]},
     {"tag": "morning",
         "patterns": ["Good morning", "Im excited to start my day"],
-        "responses": ["Good morning. I hope you had a good nights sleep. How are you feeling today? "]
+        "responses": ["Good morning. I hope you had a good night's sleep. How are you feeling today? "]
     },
     {"tag": "afternoon",
         "patterns": ["Good afternoon"],
