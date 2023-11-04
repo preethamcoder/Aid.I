@@ -156,7 +156,7 @@
     },
     {"tag": "cuss",
         "patterns": ["Fuck","Bitch", "Bsdk", "Madarchod", "Chutiya", "Lanja"],
-        "responses": ["Calm down dude.", "Kya bola Madarchod"]
+        "responses": ["Calm down dude."]
     },
     {"tag": "friends",
         "patterns": ["I don't have any friends"],
