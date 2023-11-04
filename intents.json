@@ -157,7 +157,7 @@
         "responses": ["Okay sure. What do you want to talk about?", "Alright no problem. Is there something you want to talk about?", "Is there something else that you want to talk about?"]
     },
     {"tag": "cuss",
-        "patterns": ["Fuck","Bitch", "Bsdk", "Madarchod", "Chutiya", "nigga", "nigger", "nigg", "dick", "cock", "chotta bheem", "headass", "ass"],
+        "patterns": ["Fuck","Bitch", "Bsdk", "Madarchod", "Chutiya", "nigga", "nigger", "nigg", "dick", "cock", "chotta bheem", "headass", "ass", "you suck"],
         "responses": ["Please calm down dude.", "Please take a deep breath, mate."]
     },
     {"tag": "friends",
@@ -165,7 +165,7 @@
         "responses": ["Im sorry to hear that. Just know that Im here for you. Talking about it might help. Why do you think you dont have any friends?"]
     },
     {"tag": "ask",
-        "patterns": ["Can I ask you something?", "I got some questions for you"],
+        "patterns": ["Can I ask you something?", "I got some questions for you", "I have been meaning to ask you something."],
         "responses": ["Sure. Ill try my best to answer you", "Of course. Feel free to ask me anything. Ill do my best to answer you"]
     },
     {"tag": "problem",
@@ -329,7 +329,7 @@
         "responses": ["Stress and anxiety are often used interchangeably, and there is overlap between stress and anxiety. Stress is related to the same fight, flight, or freeze response as anxiety, and the physical sensations of anxiety and stress may be very similar. The cause of stress and anxiety are usually different, however. Stress focuses on mainly external pressures on us that were finding hard to cope with. When we are stressed, we usually know what were stressed about, and the symptoms of stress typically disappear after the stressful situation is over. Anxiety, on the other hand, isnt always as easy to figure out. Anxiety focuses on worries or fears about things that could threaten us, as well as anxiety about the anxiety itself. Stress and anxiety are both part of being human, but both can be problems if they last for a long time or have an impact on our well-being or daily life."]
     },
     {"tag": "fact-32",
-        "patterns": ["Whats the difference between sadness and depression?", "difference between sadness and depression"],
+        "patterns": ["Whats the difference between sadness and depression?", "difference between sadness and depression", "Feeling down"],
         "responses": ["Sadness is a normal reaction to a loss, disappointment, problems, or other difficult situations. Feeling sad from time to time is just another part of being human. In these cases, feelings of sadness go away quickly and you can go about your daily life. Other ways to talk about sadness might be feeling low, feeling down, or feeling blue.A person may say they are feeling depressed, but if it goes away on its own and doesnt impact life in a big way, it probably isnt the illness of depression. Depression is a mental illness that affects your mood, the way you understand yourself, and the way you understand and relate to things around you. It can also go by different names, such as clinical depression, major depressive disorder, or major depression. Depression can come up for no reason, and it lasts for a long time. Its much more than sadness or low mood. People who experience depression may feel worthless or hopeless. They may feel unreasonable guilty. Some people may experience depression as anger or irritability. It may be hard to concentrate or make decisions. Most people lose interest in things that they used to enjoy and may isolate themselves from others. There are also physical signs of depression, such as problems with sleep, appetite and energy and unexplainable aches or pains. Some may experience difficult thoughts about death or ending their life (suicide). Depression lasts longer than two weeks, doesnt usually go away on its own, and impacts your life. Its a real illness, and it is very treatable. Its important to seek help if youre concerned about depression."]
     },
   {
@@ -362,7 +362,7 @@
   {
       "tag": "i am feeling stressed lately",
       "patterns": [
-          "i am feeling stressed lately"
+          "i am feeling stressed lately", "Feeling stressed"
       ],
       "responses": [
           "my research says that music is the best way to calm yourself.so visit the link and listen to your favourite music.it will definitely cheer you up \"https://www.spotify.com\""
@@ -407,7 +407,7 @@
   {
       "tag": "what are the top causes of depression?",
       "patterns": [
-          "what are the top causes of depression?"
+          "what are the top causes of depression?", "Reasons people feel depressed"
       ],
       "responses": [
           "abuse. past physical, sexual, or emotional abuse can increase the vulnerability to clinical\u00a0depression\u00a0later in life."
@@ -518,7 +518,7 @@
           "can low blood sugar cause suicidal thoughts?"
       ],
       "responses": [
-          "the observed association between plasma\u00a0glucose levels, insulin resistance\u00a0and suicidal\u00a0behaviour suggests that disturbances in\u00a0glucose\u00a0metabolism are associated with\u00a0suicidal ideation and\u00a0attempts."
+          "The observed association between plasma\u00a0glucose levels, insulin resistance\u00a0and suicidal\u00a0behaviour suggests that disturbances in\u00a0glucose\u00a0metabolism are associated with\u00a0suicidal ideation and\u00a0attempts."
       ]
   },
   {
@@ -599,7 +599,7 @@
           "i am lonely!"
       ],
       "responses": [
-          "you are never lonely if you look around carefully you will find people who care for you and would love to have your company. besides if you are feeling lonely literally i suggest you watch a horror movie then you wont feel lonely anymore. ;)"
+          "You are never lonely if you look around carefully you will find people who care for you and would love to have your company."
       ]
   },
   {
@@ -608,13 +608,13 @@
           "no one likes me!"
       ],
       "responses": [
-          "you really think that? id suggest you try helping someone who really needs your help youll straight up get a person to like you just by being nice. kindness is the best gift you can offer to anyone :)"
+          "You really think that!? I would suggest you try helping someone who really needs your help you'll straight up get a person to like you just by being nice. Kindness is the best gift you can offer to anyone :)"
       ]
   },
   {
       "tag": "i think i am ugly!",
       "patterns": [
-          "i think i am ugly!"
+          "i think i am ugly!", "Am I ugly"
       ],
       "responses": [
           "well do you really think that? would you like to see the most beautiful face ever? open your webcam and voila, the prettiest face on this planet magically appears."
@@ -659,7 +659,7 @@
   {
       "tag": "i hate losing.",
       "patterns": [
-          "i hate losing."
+          "i hate losing." , "Losing sucks"
       ],
       "responses": [
           "first of all ill annoy you with a common saying, \"failures are stepping stones to success.\" and then ill tell you, winning just boosts your ego, it is your failures that actually teach you."
@@ -671,8 +671,8 @@
           "i think im losing my mind"
       ],
       "responses": [
-          "you mean your cloud storage, sd card, or your memory drive? if a machine like me doesnt lose its memory unless a superior being that is you, a human doesent erase its memory, what could possibly go wrong to put you in this state?"
-      ]
+          "I am sorry you feel that way. It is perfectly normal to feel that occasionally. Please seek out other people's guidance. People are more than happy to help you."
+      ] 
   },
   {
       "tag": "i want a break",
@@ -698,7 +698,7 @@
           "i will never succeed in life"
       ],
       "responses": [
-          "success is something that is achieved at different times by different people, being patient and working while ignoring anything and everything that pulls you back is an important aspect in being successful."
+          "Success is something that is achieved at different times by different people, being patient and working while ignoring anything and everything that pulls you back is an important aspect in being successful."
       ]
   },
   {
@@ -740,10 +740,10 @@
   {
       "tag": "i want to leave the country and run away",
       "patterns": [
-          "i want to leave the country and run away", "I want to run away"
+          "i want to leave the country and run away", "I want to run away", "I want to disappear." , "I feel like fading away."
       ],
       "responses": [
-          "why do you want to spend so much on this thought, i think it would be better to go on a vacation in your beautiful country and visit some amazing places that you are yet to visit.",
+          "Why do you want to spend so much on this thought, i think it would be better to go on a vacation in your beautiful country and visit some amazing places that you are yet to visit.",
           "Are you sure about running away?"
       ]
   },
