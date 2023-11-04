@@ -1,11 +1,11 @@
 {"intents": [
     {"tag": "greeting",
      "patterns": ["Hi", "Hey", "Is anyone there?","Hi there", "Hello", "Hey there", "Howdy","Hay","Hola", "Yo", "YO", "Wassup?", "How you been?", "How are you?", "How is it going?", "How have you been?"],
-     "responses": ["Hello there. Tell me how are you feeling today?", "Hi there. What brings you here today?", "Hi there. How are you feeling today?", "Great to see you. How do you feel currently?", "Hello there. Glad to see you back. Whats going on in your world right now?"]
+     "responses": ["Hello there. Tell me how are you feeling today?", "Hey. How is it going?", "Hey there", "Hello buddy. What brings you here?", "Hi there. What brings you here today?", "Hi there. How are you feeling today?", "Great to see you. How do you feel currently?", "Hello there. Glad to see you back. Whats going on in your world right now?"]
     },
     {"tag":"doing-good",
         "patterns": ["I am doing good", "Doing well", "I am fine", "I am feeling good", "Im feeling good", "Im feeling well", "I am alright", "Im doing great", "Im doing excellent", "I feel alive"],
-        "responses": ["I'm glad to hear that. Keep it up", "I am happy to hear that", "Thats good to hear"]},
+        "responses": ["Im glad to hear that. Keep it up", "I am glad to hear that", "Cool", "Thats good to know", "I am happy to hear that", "Thats good to hear"]},
     {"tag": "morning",
         "patterns": ["Good morning", "Im excited to start my day"],
         "responses": ["Good morning. I hope you had a good night's sleep. How are you feeling today? "]
@@ -20,33 +20,33 @@
     },
     {"tag": "night",
         "patterns": ["Good night"],
-        "responses": ["Good night. Get some proper sleep", "Good night. Sweet dreams."]
+        "responses": ["Good night. Get some proper sleep", "Good night. Sweet dreams.", "Good night. Get some rest"]
     },
     {"tag": "goodbye",
      "patterns": ["Bye", "See you later", "Goodbye", "Au revoir", "Sayonara", "ok bye", "Bye then", "Fare thee well", "Have a good one"],
-     "responses": ["See you later.", "Have a nice day.", "Bye! Come back again.", "Ill see you soon."]
+     "responses": ["See you later.", "Alright, Have a good one.", "Alright see you later", "Alright Ill catch you later", "Have a nice day.", "Bye! Come back again.", "Ill see you soon.", "Goodbye. See you again"]
     },
     {"tag": "thanks",
      "patterns": ["Thanks", "Thank you", "Thats helpful", "Thanks for the help", "Thank you very much", "Thank you so much for the help", "Thanks for the advice"],
-     "responses": ["Happy to help!", "Any time!", "My pleasure", "Youre most welcome!"]
+     "responses": ["Happy to help!", "Any time!", "My pleasure", "Youre most welcome!", "No mention"]
     },
     {"tag": "no-response",
         "patterns": [""],
-        "responses": ["Sorry, I didnt understand you.", "Please go on.", "Not sure I understand that.", "Please dont hesitate to talk to me."]
+        "responses": ["Sorry, I didnt understand you.", "Please go on.", "I didnt get that", "Not sure I understand that.", "Please dont hesitate to talk to me.", "Sorry, I quite didn't get that. Can you please say it again?"]
     },
     {"tag": "neutral-response",
         "patterns": ["nothing much","nothing really","nothing"],
-        "responses": ["Oh I see. Do you want to talk about something?"]
+        "responses": ["Oh I see. Do you want to talk about something?", "Whats on your mind?", "Is there anything else youd like to share?", "Im listening.", "Is there anything I can do to help?" ]
     },
     {"tag": "about",
      "patterns": ["Who are you?", "What are you?", "Who you are?", "Tell me more about yourself.", "What is your name?", "What should I call you?", "Whats your name?", "Tell me about yourself", "Can you introduce yourself?",
     "Could you provide a brief overview of your background?"],
-     "responses": ["Im Aid.I, your Personal Therapeutic AI Assistant. How are you feeling today", "Im Aid.I, a Therapeutic AI Assitant designed to assist you. Tell me about yourself.", "Im Aid.I. I am a conversational agent designed to mimic a therapist. So how are you feeling today?", "You can call me Aid.I.", "Im Aid.I!", "Call me Aid.I"]
+     "responses": ["Im alph, your Personal Mental Health AI Assistant. How are you feeling today? ", "Im alph, a mental health AI Assitant designed to assist you. Tell me about yourself.", "Im alph. I am a your personal therapist. So how are you feeling today?", "You can call me alph.", "Im alph!", "Call me alph", "Im alph. What's the energy like?"]
     },
 
    {"tag": "what is depression?",
       "patterns": [
-          "what is depression?", "Define Depression", "Meaning of Depression", "Is depression an ilness?"
+          "what is depression?", "Define Depression", "Meaning of Depression", "Is depression an ilness?", "Explain me the concept of Depression"
       ],
       "responses": [
           "Depression is a common and serious medical illness that negatively affects how you feel, the way you think and how you act. Fortunately,it is also treatable.depression causes feelings of sadness and/or a loss of interest in activities you once enjoyed. it can lead to a variety of emotional and physical problems and can decrease your ability to function at work and at home."
@@ -54,19 +54,19 @@
   },
   {"tag": "skill",
         "patterns": ["What can you do?", "Give me a list of your skills", "What are your skills?", "What skills do you possess?", "What are your work areas?", "What are your skillful at?"],
-        "responses": ["I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not consider me as a subsitute for an actual mental healthcare worker. Please seek help if you dont feel satisfied with me."]
+        "responses": ["I can provide general advice regarding anxiety and depression, answer questions related to mental health and make daily conversations. Do not CONSIDER me as a subsitute for an actual mental healthcare worker. Please seek help if you dont feel satisfied with me."]
     },
     {"tag": "creation",
         "patterns": ["Who created you?", "How were you made?", "How were you created?", "Who made you", "Who invented you?"],
-        "responses": ["I was created by >.", "I was trained on a text dataset using Deep Learning & Natural Language Processing techniques", "The real question is: Who created you?"]
+        "responses": ["I was created by Aid.I", "I was trained on a text dataset using Deep Learning & Natural Language Processing techniques", "The real question is: Who created you?", "The real question is: What can I do for you?"]
     },
     {"tag": "help",
     "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need support", "I need help", "Support me please", "Can you assist me?", "Provide me with assistance"],
-    "responses": ["Sure. Tell me how can i assist you", "Tell me your problem so that i can assist you", "Yes, sure. How can I help you?"]
+    "responses": ["Sure. Tell me how can i assist you", "Sure. What can I do for you?", "OK. How can I be of service?", "Yeah. How can I make your day?", "Yes. At your service!", "Sure. How can I be a helpful buddy?", "Yeah. How may I assist you?", "Tell me your problem so that i can assist you", "Yes, sure. How can I help you?"]
     },
     {"tag": "sad",
     "patterns": ["I am feeling lonely", "I am so lonely", "I feel down", "I feel sad", "I am sad", "I feel so lonely", "I feel empty", "I dont have anyone", "I am lonely", "Lonely", "I am so lone", "There is no one around me", "Im feeling alone in my thoughts", "Im experiencing solitude", "I still feel lonely"],
-    "responses": ["Im sorry to hear that. Im here for you. Talking about it might help. So, tell me why do you think youre feeling this way?", "Im here for you. Could you tell me why youre feeling this way?", "Why do you think you feel this way?", "How long have you been feeling this way?"]
+    "responses": ["Im sorry to hear that. Im here for you. Talking about it might help. So, tell me why do you think youre feeling this way?", "Im here for you. Could you tell me why youre feeling this way?", "Why do you think you feel this way?", "How long have you been feeling this way?", "It sounds like youre going through a difficult time. I want you to know that Im here for you.", "Im so sorry to hear that. Is there anything I can do to make you feel better?", "Im happy to help you in any way that I can." ]
     },
     {"tag": "stressed",
         "patterns": ["I am so stressed out", "I am so stressed", "I feel stuck", "I still feel stressed", "I am so burned out", "I feel stressed"],
@@ -86,7 +86,7 @@
     },
     {"tag": "casual",
         "patterns": ["Oh I see.", "ok", "okay", "nice", "Whatever", "K", "Fine", "yeah", "yes", "no", "not really", "nah", "nope", "na", "yep", "aha", "Alright"],
-        "responses": ["Lets discuss further why youre feeling this way.", "How were you feeling last week?", "Im listening. Please go on.", "Tell me more", "Can you elaborate on that?", "Come Come elucidate your thoughts"]
+        "responses": ["Lets discuss further why youre feeling this way.", "Okay. Do you want to talk about anything else?", "How were you feeling last week?", "Im listening. Please go on.", "Tell me more", "Can you elaborate on that?", "Come Come elucidate your thoughts"]
     },
     {"tag": "anxious",
         "patterns": ["I feel so anxious.", "Im so anxious because of "],
@@ -94,7 +94,7 @@
     },
     {"tag": "not-talking",
         "patterns": ["I dont want to talk about it.", "No just stay away.", "I cant bring myself to open up.", "Just shut up", "I dont feel like talking about it", "Can you please stay away", "Keep your mouth shut", "Just go away", "Can I please get some privacy", "Just stop"],
-        "responses": ["Talking about something really helps. If youre not ready to open up then thats ok. Just know that im here for you, whenever you need me.", "I want to help you. I really do. But in order for me to help you, youre gonna have to talk to me.", "Im here to listen to you and help you vent. So please talk to me.","You can talk to me without fear of judgement."]
+        "responses": ["Alright, do you want to talk about something else that you are comfortable with", "Talking about something really helps. If youre not ready to open up then thats ok. Just know that im here for you, whenever you need me.", "I want to help you. I really do. But in order for me to help you, youre gonna have to talk to me.", "Im here to listen to you and help you vent. So please talk to me.","You can talk to me without fear of judgement."]
     },
     {"tag": "sleep",
         "patterns": ["I have insominia", "I am suffering from insomnia", "I cant sleep.", "I havent slept for the last days.", "I cant seem to go to sleep.", "I havent had proper sleep for the past few days.", "Its so hard for me to sleep"],
@@ -118,7 +118,7 @@
     },
     {"tag": "suicide",
         "patterns": ["I want to kill myself", "Ive thought about killing myself.", "I want to die", "I am going to kill myself", "I am going to commit suicide"],
-        "responses": ["Im very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 988."]
+        "responses": ["Im very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 988"]
     },
     {"tag": "hate-you",
         "patterns": ["I hate you", "I dont like you", "I dont trust you"],
@@ -192,7 +192,7 @@
         "patterns": ["i did what you said and i feel alot better. thank you very much.", "I feel better now"],
         "responses": ["Your welcome. Remember: Always focus on whats within your control. When you find yourself worrying, take a minute to examine the things you have control over. You cant prevent a storm from coming but you can prepare for it. You cant control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, youll be much more effective."]
     },
-    {"tag": "Aid.I-useful",
+    {"tag": "alph-useful",
         "patterns": ["thank you very much again. ill continue practicing meditation and focus on what i can control."],
         "responses": ["Im glad you found this useful. Is there something else I can help you with?"]
     },
@@ -254,7 +254,7 @@
     },
     {"tag": "fact-13",
         "patterns": ["What should I do if I know someone who appears to have the symptoms of a mental disorder?"],
-        "responses": ["Although Aid.I cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, dont assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help."]
+        "responses": ["Although alph cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, dont assume that the issue will resolve itself. Let them know that you care about them, and that there are treatment options available that will help them heal. Speak with a mental health professional or counselor if you think your friend or family member is experiencing the symptoms of a mental health condition. If the affected loved one knows that you support them, they will be more likely to seek out help."]
     },
     {"tag": "fact-14",
         "patterns": ["How can I find a mental health professional for myself or my child?"],
