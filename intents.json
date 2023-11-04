@@ -169,7 +169,7 @@
         "responses": ["Sure. Ill try my best to answer you", "Of course. Feel free to ask me anything. Ill do my best to answer you"]
     },
     {"tag": "problem",
-        "patterns": ["Probably because my exams are approaching. I feel stressed out because I dont think Ive prepared well enough.", "probably because of my exams", "Exams suck", "Exams are too stressful.", "I hate exams.",
+        "patterns": ["Probably because my exams are approaching. I feel stressed out because I dont think Ive prepared well enough.", "probably because of my exams", "Exams suck", "Exams are too stressful.", "I hate exams."]
         "responses": ["I see. Have you taken any approaches to not feel this way?"]
     },
     {"tag": "no-approach",
