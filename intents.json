@@ -59,7 +59,7 @@
     },
    
     {"tag": "help",
-    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need support", "I need help", "Support me please", "Can you assist me?", "Provide me with assistance", "],
+    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need support", "I need help", "Support me please", "Can you assist me?", "Provide me with assistance"],
     "responses": ["Sure. Tell me how can i assist you", "Tell me your problem so that i can assist you", "Yes, sure. How can I help you?"]
     },
     {"tag": "sad",
