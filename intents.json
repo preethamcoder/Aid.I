@@ -4,7 +4,7 @@
      "responses": ["Hello there. Tell me how are you feeling today?", "Hi there. What brings you here today?", "Hi there. How are you feeling today?", "Great to see you. How do you feel currently?", "Hello there. Glad to see you're back. What's going on in your world right now?"]
     },
     {"tag": "morning",
-        "patterns": ["Good morning"],
+        "patterns": ["Good morning", "I'm excited to start my day"],
         "responses": ["Good morning. I hope you had a good night's sleep. How are you feeling today? "]
     },
     {"tag": "afternoon",
@@ -24,7 +24,7 @@
      "responses": ["See you later.", "Have a nice day.", "Bye! Come back again.", "I'll see you soon."]
     },
     {"tag": "thanks",
-     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help", "Thank you very much"],
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help", "Thank you very much", "Thank you so much for the help", "Thanks for the advice"],
      "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
     },
     {"tag": "no-response",
