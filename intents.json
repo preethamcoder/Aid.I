@@ -118,7 +118,7 @@
     },
     {"tag": "suicide",
         "patterns": ["I want to kill myself", "Ive thought about killing myself.", "I want to die", "I am going to kill myself", "I am going to commit suicide"],
-        "responses": ["Im very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821."]
+        "responses": ["Im very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 988."]
     },
     {"tag": "hate-you",
         "patterns": ["I hate you", "I dont like you", "I dont trust you"],
