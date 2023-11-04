@@ -1,10 +1,10 @@
 {"intents": [
     {"tag": "greeting",
      "patterns": ["Hi", "Hey", "Is anyone there?","Hi there", "Hello", "Hey there", "Howdy","Hay","Hola", "Yo", "YO", "Wassup?", "How you been?", "How are you?", "How is it going?", "How have you been?"],
-     "responses": ["Hello there. Tell me how are you feeling today?", "Hi there. What brings you here today?", "Hi there. How are you feeling today?", "Great to see you. How do you feel currently?", "Hello there. Glad to see youre back. Whats going on in your world right now?"]
+     "responses": ["Hello there. Tell me how are you feeling today?", "Hi there. What brings you here today?", "Hi there. How are you feeling today?", "Great to see you. How do you feel currently?", "Hello there. Glad to see you back. Whats going on in your world right now?"]
     },
     {"tag":"doing-good",
-        "patterns": ["I am doing good", "I am doing well", "I am fine", "I am feeling good", "Im feeling good", "Im feeling well", "I am alright", "Im doing great", "Im doing excellent", "I feel alive"],
+        "patterns": ["I am doing good", "Doing well", "I am fine", "I am feeling good", "Im feeling good", "Im feeling well", "I am alright", "Im doing great", "Im doing excellent", "I feel alive"],
         "responses": ["I'm glad to hear that. Keep it up", "I am happy to hear that", "Thats good to hear"]},
     {"tag": "morning",
         "patterns": ["Good morning", "Im excited to start my day"],
@@ -60,7 +60,6 @@
         "patterns": ["Who created you?", "How were you made?", "How were you created?", "Who made you", "Who invented you?"],
         "responses": ["I was created by >.", "I was trained on a text dataset using Deep Learning & Natural Language Processing techniques", "The real question is: Who created you?"]
     },
-   
     {"tag": "help",
     "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need support", "I need help", "Support me please", "Can you assist me?", "Provide me with assistance"],
     "responses": ["Sure. Tell me how can i assist you", "Tell me your problem so that i can assist you", "Yes, sure. How can I help you?"]
@@ -158,15 +157,15 @@
         "responses": ["Okay sure. What do you want to talk about?", "Alright no problem. Is there something you want to talk about?", "Is there something else that you want to talk about?"]
     },
     {"tag": "cuss",
-        "patterns": ["Fuck","Bitch", "Bsdk", "Madarchod", "Chutiya", "nigga", "nigger", "nigg", "dick", "cock", "chotta bheem", "headass", "ass", "shit",],
-        "responses": ["Please calm down dude."]
+        "patterns": ["Fuck","Bitch", "Bsdk", "Madarchod", "Chutiya", "nigga", "nigger", "nigg", "dick", "cock", "chotta bheem", "headass", "ass"],
+        "responses": ["Please calm down dude.", "Please take a deep breath, mate."]
     },
     {"tag": "friends",
         "patterns": ["I dont have any friends"],
         "responses": ["Im sorry to hear that. Just know that Im here for you. Talking about it might help. Why do you think you dont have any friends?"]
     },
     {"tag": "ask",
-        "patterns": ["Can I ask you something?"],
+        "patterns": ["Can I ask you something?", "I got some questions for you"],
         "responses": ["Sure. Ill try my best to answer you", "Of course. Feel free to ask me anything. Ill do my best to answer you"]
     },
     {"tag": "problem",
