@@ -36,17 +36,8 @@
         "responses": ["Oh I see. Do you want to talk about something?"]
     },
     {"tag": "about",
-     "patterns": ["Who are you?", "What are you?", "Who you are?", "Tell me more about yourself.", "What is your name?", "What should I call you?", "What's your name?", "Tell me about yourself", "Can you introduce yourself?",
-    "Could you provide a brief overview of your background?",
-    "Please share a bit about your professional history and experiences.",
-    "Give me a summary of your qualifications and career journey.",
-    "Share a few key highlights from your professional life.",
-    "Whats your story in the professional world?",
-    "Provide an overview of your educational and work history.",
-    "Talk about your background and what led you to this point in your career.",
-    "How would you describe your career path and achievements?",
-    "Take a few minutes to walk me through your resume.",
-    "Briefly outline your career trajectory for me." ],
+     "patterns": ["Who are you?", "What are you?", "Who you are?", "Tell me more about yourself.", "What is your name?", "What should I call you?", "What's your name?", "Tell me about yourself", "Can you introduce yourself?", "Could you provide a brief overview of your background?",
+    "share a bit about your professional history and experiences."],
      "responses": ["I'm Pandora, your Personal Therapeutic AI Assistant. How are you feeling today", "I'm Pandora, a Therapeutic AI Assitant designed to assist you. Tell me about yourself.", "I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today?", "You can call me Pandora.", "I'm Pandora!", "Call me Pandora"]
     },
 
