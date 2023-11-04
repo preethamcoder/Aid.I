@@ -118,7 +118,7 @@
     },
     {"tag": "suicide",
         "patterns": ["I want to kill myself", "Ive thought about killing myself.", "I want to die", "I am going to kill myself", "I am going to commit suicide"],
-        "responses": ["Im very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 988"]
+        "responses": ["I am truly sorry to hear that but you have so much to look forward to. Please seek help by contacting: 988"]
     },
     {"tag": "hate-you",
         "patterns": ["I hate you", "I dont like you", "I dont trust you"],
@@ -374,7 +374,7 @@
           "i want to kill myself"
       ],
       "responses": [
-          "helpline is available,you can contact the counsellor today:Befrienders Kenya helpline number is +254 722 178 177..always remember you mean something to someone."
+          "Always remember you mean something to someone Please contact 988. Your life matters!."
       ]
   },
   {
@@ -401,7 +401,7 @@
           "what are the causes of depression?"
       ],
       "responses": [
-          "its complicated, and there are multiple\u00a0causes\u00a0of major\u00a0depression. factors such as genetic vulnerability, severe life stressors, substances you may take (some medications, drugs and alcohol) and medical conditions can affect the way your brain regulates your moods."
+          " There are multiple\u00a0causes\u00a0of major\u00a0depression. factors such as genetic vulnerability, severe life stressors, substances you may take (some medications, drugs and alcohol) and medical conditions can affect the way your brain regulates your moods."
       ]
   },
   {
@@ -464,7 +464,7 @@
           "how does depression affect the world?"
       ],
       "responses": [
-          "depression\u00a0is a leading\u00a0cause\u00a0of disability worldwide and is a major contributor to the overall\u00a0global\u00a0burden of disease. more women are affected by\u00a0depression\u00a0than men.\u00a0depression\u00a0can lead to suicide. there are effective psychological and pharmacological treatments for moderate and severe\u00a0depression."
+          "Depression\u00a0is the leading\u00a0cause\u00a0of disability worldwide and is a major contributor to the overall\u00a0global\u00a0burden of disease. more women are affected by\u00a0depression\u00a0than men.\u00a0depression\u00a0can lead to suicide. there are effective psychological and pharmacological treatments for moderate and severe\u00a0depression."
       ]
   },
   {
@@ -738,7 +738,7 @@
       ]
   },
   {
-      "tag": "i want to leave the cou ntry and run away",
+      "tag": "i want to leave the country and run away",
       "patterns": [
           "i want to leave the country and run away", "I want to run away"
       ],
