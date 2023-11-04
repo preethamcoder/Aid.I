@@ -23,7 +23,7 @@
         "responses": ["Good night. Get some proper sleep", "Good night. Sweet dreams."]
     },
     {"tag": "goodbye",
-     "patterns": ["Bye", "See you later", "Goodbye", "Au revoir", "Sayonara", "ok bye", "Bye then", "Fare thee well"],
+     "patterns": ["Bye", "See you later", "Goodbye", "Au revoir", "Sayonara", "ok bye", "Bye then", "Fare thee well", "Have a good one"],
      "responses": ["See you later.", "Have a nice day.", "Bye! Come back again.", "Ill see you soon."]
     },
     {"tag": "thanks",
@@ -723,7 +723,7 @@
   {
       "tag": "i am afraid to file a case against bullying",
       "patterns": [
-          "i am afraid to file a case against bullying"
+          "i am afraid to file a case against bullying", "I am scared to file a case against bullying", "I am afraid to complain about bullying"
       ],
       "responses": [
           "bullying is very wrong and you shouldnt let anyone overpower you.i highly recommend you to stand for yourself and report this to your guardian."
@@ -732,19 +732,20 @@
   {
       "tag": "i wish to quit",
       "patterns": [
-          "i wish to quit"
+          "i wish to quit", "I quit", "I am done, I want to quit", "I quit myself"
       ],
       "responses": [
-          "winners never quit and quitters never win a very common saying, but it isnt easy to follow, quitting should never be one of your options always think of ways to fight life back and to emerge out stronger than ever."
+          "\"winners never quit and quitters never win\" a very common saying, but it isnt easy to follow, quitting should never be one of your options always think of ways to fight life back and to emerge out stronger than ever."
       ]
   },
   {
       "tag": "i want to leave the cou ntry and run away",
       "patterns": [
-          "i want to leave the cou ntry and run away"
+          "i want to leave the country and run away", "I want to run away"
       ],
       "responses": [
-          "why do you want to spend so much on this thought, i think it would be better to go on a vacation in your beautiful country and visit some amazing places that you are yet to visit."
+          "why do you want to spend so much on this thought, i think it would be better to go on a vacation in your beautiful country and visit some amazing places that you are yet to visit.",
+          "Are you sure about running away?"
       ]
   },
   {
