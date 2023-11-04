@@ -759,8 +759,7 @@
   {
       "tag": "i cant do this anymore",
       "patterns": [
-          "i cant do this anymore", "I just cant take it anymore", "I can't take it", 
-      ],
+          "i cant do this anymore", "I just cant take it anymore", "I can't take it"],
       "responses": [
           "if you are really that exhausted you definitely need a break, and taking a teeny tiny break isnt very harmful, take some time off let your mind be at peace and get back to work with all the enrgy and enthusiasm that you have."
       ]
