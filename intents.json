@@ -157,7 +157,7 @@
     {"tag": "cuss",
         "patterns": ["Fuck","Bitch"],
         "responses": ["Calm down dude."]
-    };
+    },
     {"tag": "friends",
         "patterns": ["I don't have any friends"],
         "responses": ["I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?"]
