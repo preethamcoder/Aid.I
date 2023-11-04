@@ -155,7 +155,7 @@
         "responses": ["Okay sure. What do you want to talk about?", "Alright no problem. Is there something you want to talk about?", "Is there something else that you want to talk about?"]
     },
     {"tag": "cuss",
-        "patterns": ["Fuck","Bitch", "Bsdk", "Madarchod", "Chutiya"],
+        "patterns": ["Fuck","Bitch", "Bsdk", "Madarchod", "Chutiya", "hi nigga"],
         "responses": ["Calm down dude."]
     },
     {"tag": "friends",
