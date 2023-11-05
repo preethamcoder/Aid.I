@@ -197,11 +197,6 @@
             "responses": ["Okay sure. What do you want to talk about?", "Alright no problem. Is there something you want to talk about?", "Is there something else that you want to talk about?"]
         },
         {
-            "tag": "cuss",
-            "patterns": ["Fuck", "Bitch", "Bsdk", "Madarchod", "Chutiya", "dick", "cock", "chotta bheem", "headass", "ass", "you suck"],
-            "responses": ["Please calm down dude.", "Please take a deep breath, mate."]
-        },
-        {
             "tag": "friends",
             "patterns": ["I dont have any friends"],
             "responses": ["Im sorry to hear that. Just know that Im here for you. Talking about it might help. Why do you think you dont have any friends?"]
@@ -559,6 +554,11 @@
             "responses": [
                 "major depression was most prevalent among\u00a0hispanics\u00a0(10.8%), followed by\u00a0african americans\u00a0(8.9%) and\u00a0whites\u00a0(7.8%). the odds of depressive disorders among older\u00a0hispanics\u00a0were 44% greater than among\u00a0whites\u00a0(or = 1.44; 95% ci = 1.02, 2.04), representing a significantly greater prevalence of major depression."
             ]
+        },
+        {
+            "tag": "cuss",
+            "patterns": ["Fuck", "Bitch", "Bsdk", "Madarchod", "Chutiya", "dick", "cock", "chotta bheem", "headass", "ass", "you suck"],
+            "responses": ["Please calm down dude.", "Please take a deep breath, mate."]
         },
         {
             "tag": "what is the meaning of anxiety and depression?",
