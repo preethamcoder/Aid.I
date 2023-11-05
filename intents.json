@@ -409,7 +409,7 @@
         {
             "tag": "fact-31",
             "patterns": ["Whats the difference between anxiety and stress?"],
-            "responses": ["Stress and anxiety are often used interchangeably, and there is overlap between stress and anxiety. Stress is related to the same fight, flight, or freeze response as anxiety, and the physical sensations of anxiety and stress may be very similar. The cause of stress and anxiety are usually different, however. Stress focuses on mainly external pressures on us that were finding hard to cope with. When we are stressed, we usually know what were stressed about, and the symptoms of stress typically disappear after the stressful situation is over. Anxiety, on the other hand, isnt always as easy to figure out. Anxiety focuses on worries or fears about things that could threaten us, as well as anxiety about the anxiety itself. Stress and anxiety are both part of being human, but both can be problems if they last for a long time or have an impact on our well-being or daily life."]
+            "responses": ["Stress and anxiety are often used interchangeably, and there is overlap between stress and anxiety. Stress is related to the same fight, flight, or freeze response as anxiety, and the physical sensations of anxiety and stress may be very similar. The cause of stress and anxiety are usually different, however. Stress focuses on mainly external pressures on us that we were finding hard to cope with. When we are stressed, we usually know what were stressed about, and the symptoms of stress typically disappear after the stressful situation is over. Anxiety, on the other hand, isnt always as easy to figure out. Anxiety focuses on worries or fears about things that could threaten us, as well as anxiety about the anxiety itself. Stress and anxiety are both part of being human, but both can be problems if they last for a long time or have an impact on our well-being or daily life."]
         },
         {
             "tag": "fact-32",
@@ -419,10 +419,10 @@
         {
             "tag": "i feel i have let my parents down",
             "patterns": [
-                "i feel i have let my parents down"
+                "i feel i have let my parents down", "i failed my parents", "i made my parents cry", "my parents are sad because of me"
             ],
             "responses": [
-                "No matter what,your parents will always be proud of you and will love you.you will feel much better if you share your feelings with them."
+                "No matter what, your parents will always be proud of you and will love you. You will feel much better if you share your feelings with them."
             ]
         },
         {
@@ -431,16 +431,16 @@
                 "what are the types of depression?"
             ],
             "responses": [
-                "There are many different forms of depression but most common types are.clinical depression,persistent depressive disorder,bipolar disorder,postnatal disorder."
+                "There are many different forms of depression but most common types are. Clinical depression, Persistent depressive disorder, bipolar disorder, and postnatal disorder."
             ]
         },
         {
             "tag": "i am good for nothing.",
             "patterns": [
-                "i am good for nothing."
+                "i am good for nothing.", "i am stash", "i am useless", "i am shit"
             ],
             "responses": [
-                "dont ever think you cannot achieve what you want.you are capable of reaching your goals.here is a quote for you everything you can imagine is real."
+                "Dont ever think you cannot achieve what you want. You are capable of reaching your goals. Here is a quote for you - everything you can imagine is real."
             ]
         },
         {
@@ -458,16 +458,16 @@
                 "i want to kill myself"
             ],
             "responses": [
-                "Always remember you mean something to someone Please contact 988. Your life matters!."
+                "Always remember you mean something to someone. Please contact 988. Your life matters!."
             ]
         },
         {
             "tag": "i am afraid i will fail again",
             "patterns": [
-                "i am afraid i will fail again"
+                "i am afraid i will fail again", "i am scared of failure", "i am scared i will fail again"
             ],
             "responses": [
-                "failure is the stepping stone towards success.never fear failure.your hardwork and determination will help you reach your goal."
+                "Failure is the stepping stone towards success. Never fear failure. Your hard work and determination will help you reach your goal."
             ]
         },
         {
@@ -584,7 +584,7 @@
                 "can lack of sleep make you feel sad?"
             ],
             "responses": [
-                "studies show\u00a0people\u00a0who are\u00a0sleep\u00a0deprived report increases in negative moods (anger, frustration, irritability,\u00a0sadness) and decreases in positive moods. and sleeplessness is often a symptom of mood disorders, such as depression and anxiety."
+                "Studies show\u00a0people\u00a0who are\u00a0sleep\u00a0deprived report increases in negative moods (anger, frustration, irritability,\u00a0sadness) and decreases in positive moods. Sleeplessness is often a symptom of mood disorders, such as depression and anxiety."
             ]
         },
         {
@@ -611,7 +611,7 @@
                 "How long can anxiety last?"
             ],
             "responses": [
-                "Anxiety attacks\u00a0usually peak within\u00a010 minutes, and they rarely last more than\u00a030 minutes. but during that short time, you may experience terror so severe that you feel as if youre about to die or totally lose control."
+                "Anxiety attacks\u00a0usually peak within\u00a010 minutes, and they rarely last more than\u00a030 minutes. But during that short time, you may experience terror so severe that you feel as if youre about to die or totally lose control."
             ]
         },
         {
@@ -620,25 +620,25 @@
                 "what are the stages of anxiety?", "Levels of anxiety."
             ],
             "responses": [
-                "anxiety levels\u00a0are typically classified by the level of distress and impairment experienced into four categories namely, mild\u00a0anxiety, moderate\u00a0anxiety, severe\u00a0anxiety\u00a0and panic level\u00a0anxiety."
+                "Anxiety levels\u00a0are typically classified by the level of distress and impairment experienced into four categories namely, mild\u00a0anxiety, moderate\u00a0anxiety, severe\u00a0anxiety\u00a0and panic level\u00a0anxiety."
             ]
         },
         {
             "tag": "at what age does anxiety peak?",
             "patterns": [
-                "at what age does anxiety peak?"
+                "at what age does anxiety peak?", "when does anxiety peak"
             ],
             "responses": [
-                "Adults\u00a0ages\u00a030 to 44 have the highest rate of\u00a0anxiety\u00a0of this\u00a0age\u00a0group, with around 23% of people this\u00a0age\u00a0reporting an\u00a0anxiety\u00a0disorder within the past year."
+                "Adults\u00a0ages\u00a030 to 44 have the highest rate of\u00a0anxiety\u00a0, with around 23% of people this\u00a0age\u00a0reporting an\u00a0anxiety\u00a0disorder within the past year."
             ]
         },
         {
             "tag": "why is anxiety bad for you?",
             "patterns": [
-                "why is anxiety bad for you?"
+                "why is anxiety bad for you?", "what can anxiety do"
             ],
             "responses": [
-                "Anxiety\u00a0disorders can cause rapid heart rate, palpitations, and chest pain.\u00a0you\u00a0may also be at an increased risk of high blood pressure and heart disease. if\u00a0you\u00a0already have heart disease,\u00a0anxiety\u00a0disorders may raise the risk of coronary events."
+                "Anxiety\u00a0disorders can cause rapid heart rate, palpitations, and chest pain.\u00a0You\u00a0may also be at an increased risk of high blood pressure and heart disease. If\u00a0you\u00a0already have heart disease,\u00a0anxiety\u00a0disorders may raise the risk of coronary events."
             ]
         },
         {
@@ -647,16 +647,16 @@
                 "what is the 3 3 3 rule for anxiety?"
             ],
             "responses": [
-                "There's an\u00a0anxiety-reducing technique called grounding. there are different versions of this, but an easy one to remember is the\u00a03-3-3 rule. mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body. this exercise can help your mind refocus on something else."
+                "There's an\u00a0anxiety-reducing technique called grounding. There are different versions of this, but an easy one to remember is the\u00a03-3-3 rule. Mentally note\u00a0three\u00a0things you see, \u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body. This exercise can help your mind focus on something else."
             ]
         },
         {
             "tag": "do we control our thoughts?",
             "patterns": [
-                "do we control our thoughts?"
+                "do we control our thoughts?", "how to control the mind"
             ],
             "responses": [
-                "we\u00a0are aware of a tiny fraction of the\u00a0thinking\u00a0that goes on in\u00a0our minds, and\u00a0we can control\u00a0only a tiny part of\u00a0our\u00a0conscious\u00a0thoughts. the vast majority of\u00a0our thinking\u00a0efforts goes on subconsciously. ... slips of the tongue and accidental actions offer glimpses of\u00a0our\u00a0unfiltered subconscious mental life."
+                "We\u00a0are aware of a tiny fraction of the\u00a0thinking\u00a0that goes on in\u00a0our minds, and\u00a0we can control\u00a0only a tiny part of\u00a0our\u00a0conscious\u00a0thoughts. The vast majority of\u00a0our thinking\u00a0efforts go on subconsciously.", "Devotional Service and practice are good ways to focus on the good parts of life."
             ]
         },
         {
@@ -665,49 +665,49 @@
                 "how many thoughts a day do we have?"
             ],
             "responses": [
-                "A new study has suggested that an average person has 60,000\u00a0thoughts\u00a0per\u00a0day. thousands of\u00a0thoughts\u00a0cross our mind through the\u00a0day.\u00a0many\u00a0people even complain that they cant sleep immediately after going to bed as their brain\u00a0does\u00a0not stop thinking."
+                "A new study has suggested that an average person has 60,000\u00a0thoughts\u00a0per\u00a0day. Thousands of\u00a0thoughts\u00a0cross our mind through the\u00a0day.\u00a0Many\u00a0people even complain that they cant sleep after going to bed, as their brain\u00a0does\u00a0not stop thinking."
             ]
         },
         {
             "tag": "how can we reduce anxiety?",
             "patterns": [
-                "How can we reduce anxiety?"
+                "How can we reduce anxiety?", "tips to reduce anxiety", "how can I reduce anxiety?"
             ],
             "responses": [
-                "3 3 3 rule is the best method to reduce anxiety.in this method you have to mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body. this exercise can help your mind refocus on something else."
+                "3 3 3 rule is the best method to reduce anxiety. In this method, you have to mentally note \u00a0three\u00a0things you see, \u00a0three\u00a0sounds you hear, and then move \u00a0three\u00a0 parts of your body. This exercise can help your mind refocus on something else."
             ]
         },
         {
             "tag": "i am lonely!",
             "patterns": [
-                "i am lonely!"
+                "i am lonely!", "i feel lonely", "i feel deserted", "i feel alone"
             ],
             "responses": [
-                "You are never lonely if you look around carefully you will find people who care for you and would love to have your company."
+                "You are never lonely. If you look around carefully you will find people who care for you and would love to have your company."
             ]
         },
         {
             "tag": "no one likes me!",
             "patterns": [
-                "no one likes me!"
+                "no one likes me!", "everyone hates me", "no one likes me", "nobody likes me"
             ],
             "responses": [
-                "You really think that!? I would suggest you try helping someone who really needs your help you'll straight up get a person to like you just by being nice. Kindness is the best gift you can offer to anyone :)"
+                "You really think that? Hard luck, I love you for who you are. Try helping someone who really needs your help and you can get a person to like you just by being nice. Kindness is free, and the best gift you can give anyone :)"
             ]
         },
         {
             "tag": "i think i am ugly!",
             "patterns": [
-                "i think i am ugly!", "Am I ugly"
+                "i think i am ugly!", "Am I ugly", "i wish i looked better"
             ],
             "responses": [
-                "Well do you really think that? Would you like to see the most beautiful face ever? open your webcam and voila, the prettiest face on this planet magically appears."
+                "Welp, do you really think that? Would you like to see the most beautiful face ever? Just open your webcam :)"
             ]
         },
         {
             "tag": "i am good for nothing!",
             "patterns": [
-                "i am good for nothing!"
+                "i am good for nothing!", "i am trash", "i am crap", "i am scrap"
             ],
             "responses": [
                 "Your perception of how good you are, will never be accurate. If you wake up everyday in the morning, smile to yourself and tell yourself that the day is yours to seize you might stop feeling that way. Carpe diem! my friend."
@@ -719,7 +719,7 @@
                 "i wish i was better than them"
             ],
             "responses": [
-                "life is never about being better than anyone else, its always about being better than yourself, if you have the guts to be better than yourself, you are automatically the best person to ever exist!"
+                "Life is never about being better than anyone else, its always about being better than yourself. If you have the guts to be better than yourself, you are automatically the best person to ever exist!"
             ]
         },
         {
@@ -728,7 +728,7 @@
                 "i hate myself!"
             ],
             "responses": [
-                "when god was creating the universe he gave humans the power to think and the contemplate, so that we can understand the world and make it a better place. god did not give you brains to hate yourself, it wuld be wiser to love yourself and show god that you are serving the purpose for which you were sent."
+                "When god was creating the universe, he gave humans the power to think and contemplate. God did not give you brains to hate yourself, it would be wiser to love yourself and show god that you are serving the purpose for which you were sent."
             ]
         },
         {
@@ -752,7 +752,7 @@
         {
             "tag": "i think im losing my mind",
             "patterns": [
-                "i think im losing my mind"
+                "i think im losing my mind", "my brain is about to explode"
             ],
             "responses": [
                 "I am sorry you feel that way. It is perfectly normal to feel that occasionally. Please seek out other people's guidance. People are more than happy to help you."
@@ -761,28 +761,28 @@
         {
             "tag": "i want a break",
             "patterns": [
-                "i want a break"
+                "i want a break", "i need to take off"
             ],
             "responses": [
-                "a break is putting your mind to rest getting rid of negative thoughts and stress. your life is completely in your hands and taking a few hours off from pressurizing your brain will definitely be beneficial for you."
+                "A break is putting your mind to rest, getting rid of negative thoughts and stress. Your life is completely in your hands and taking a few hours off from squashing your brain will be gold dust!"
             ]
         },
         {
             "tag": "i am stressed out",
             "patterns": [
-                "i am stressed out"
+                "i am stressed out", "I feel stressed"
             ],
             "responses": [
-                "you know taking too much stress will affect you negatively. sometimes its better to let go of the thoughts in your head and let your mind chill."
+                "Did you know taking too much stress could affect you negatively? Sometimes its better to ignore the thoughts in your head and let your mind chill."
             ]
         },
         {
             "tag": "i will never succeed in life",
             "patterns": [
-                "i will never succeed in life"
+                "i will never succeed in life", "i am a failure"
             ],
             "responses": [
-                "Success is something that is achieved at different times by different people, being patient and working while ignoring anything and everything that pulls you back is an important aspect in being successful."
+                "Success is something that is achieved at different times by different people. Being patient and working while ignoring anything and everything that pulls you back is an important aspect of being successful."
             ]
         },
         {
@@ -791,7 +791,7 @@
                 "i am sad"
             ],
             "responses": [
-                "hey,hang in there.i know time is tough but be patient and everything will fall into place.here is a quote that i found which could cheer you up forget what is gone, appreciate what remains, and look forward for what is coming next."
+                "Hang in there. I know time is tough, but be patient and everything will fall into place. Here is a quote that I found - forget what is gone, appreciate what remains, and look forward for what is coming next."
             ]
         },
         {
@@ -800,7 +800,7 @@
                 "i am a victim of bullying"
             ],
             "responses": [
-                "bullying is wrong and no one should be bullied.i highly recommend you to file a case against your bully."
+                "Bullying is wrong and no one should be bullied.i highly recommend you to file a case against your bully."
             ]
         },
         {
@@ -818,26 +818,26 @@
                 "i wish to quit", "I quit", "I am done, I want to quit", "I quit myself"
             ],
             "responses": [
-                "\"winners never quit and quitters never win\" a very common saying, but it isnt easy to follow, quitting should never be one of your options always think of ways to fight life back and to emerge out stronger than ever."
+                "\" Winners never quit and quitters never win\" is a very common saying, but it isnt easy to follow. Quitting should never be one of your options - always think of ways to fight life back and emerge out stronger than ever."
             ]
         },
         {
             "tag": "i want to leave the country and run away",
             "patterns": [
-                "i want to leave the country and run away", "I want to run away", "I want to disappear.", "I feel like fading away."
+                "I want to leave the country and run away", "I want to run away", "I want to disappear.", "I feel like fading away."
             ],
             "responses": [
-                "Why do you want to spend so much on this thought, i think it would be better to go on a vacation in your beautiful country and visit some amazing places that you are yet to visit.",
+                "Why do you want to spend so much on this thought? I think it would be better to go on a vacation in your beautiful country and visit some amazing places that you have yet to visit.",
                 "Are you sure about running away?"
             ]
         },
         {
             "tag": "i let everyone down",
             "patterns": [
-                "i let everyone down", "I dissapointed everyone.", "I didn't meet up to their expectations"
+                "I let everyone down", "I disappointed everyone.", "I didn't meet up to their expectations"
             ],
             "responses": [
-                "if you are the one who let them down you were the one who raised there hopes in the first place.if you have done it once i can guarantee you can do it over and over again."
+                "If you are the one who let them down, you were the one who raised their hopes in the first place. If you have done it once, you can do it over and over again. Its only a matter of time till they realize your efforts and dedication."
             ]
         },
         {
@@ -846,7 +846,7 @@
                 "i cant do this anymore", "I just cant take it anymore", "I can't take it"
             ],
             "responses": [
-                "if you are really that exhausted you definitely need a break, and taking a teeny tiny break isnt very harmful, take some time off let your mind be at peace and get back to work with all the enrgy and enthusiasm that you have."
+                "If you are really that exhausted, you definitely need a break. Taking a teeny tiny break isnt very harmful, take some time off let your mind be at peace. Get back to work with all the energy and enthusiasm that you gain."
             ]
         },
         {
@@ -855,7 +855,7 @@
                 "my time has come.", "I think its time.", "my hour has come.", "This is my hour.", "It's my time to shine.", "Its now or never.", "Its my shot."
             ],
             "responses": [
-                "yeahh!! the time has come for you to show the world that you are the greatest person alive, and no one else can be as good as you are.", "yeahh!! the time has come for you to show the world who you are."
+                "YEAH!! The time has come for you to show the world that you are the greatest person alive, and no one else can be as good as you are.", "Its about time the world sees the beast in you!"
             ]
         },
         {
@@ -864,7 +864,7 @@
                 "I am feeling anxious lately.", "things scare me", "some stuff really be scaring mi witless", "I am anxious", "I am scared of small things"
             ],
             "responses": [
-                "I have heard that 3 3 3 rule is the best method to reduce anxiety. In this method, you have to mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body.this exercise can help your mind refocus on something else.give this method a try i am sure it will help you"
+                "I have heard that 3 3 3 rule is the best method to reduce anxiety. In this method, you have to mentally note \u00a0three\u00a0 things you see, \u00a0three\u00a0sounds you hear, and then move \u00a0three\u00a0 parts of your body. This exercise can help your mind refocus on something else. Give this method a try, I am sure it will help you"
             ]
         },
         {
