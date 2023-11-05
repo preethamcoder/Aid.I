@@ -198,7 +198,7 @@
         },
         {
             "tag": "cuss",
-            "patterns": ["Fuck", "Bitch", "Bsdk", "Madarchod", "Chutiya", "nigga", "nigger", "nigg", "dick", "cock", "chotta bheem", "headass", "ass", "you suck"],
+            "patterns": ["Fuck", "Bitch", "Bsdk", "Madarchod", "Chutiya", "dick", "cock", "chotta bheem", "headass", "ass", "you suck"],
             "responses": ["Please calm down dude.", "Please take a deep breath, mate."]
         },
         {
