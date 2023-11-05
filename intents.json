@@ -65,7 +65,7 @@
     "responses": ["Sure. Tell me how can i assist you", "Sure. What can I do for you?", "OK. How can I be of service?", "Yeah. How can I make your day?", "Yes. At your service!", "Sure. How can I be a helpful buddy?", "Yeah. How may I assist you?", "Tell me your problem so that i can assist you", "Yes, sure. How can I help you?"]
     },
     {"tag": "sad",
-    "patterns": ["I am feeling lonely", "I am so lonely", "I feel down", "I feel sad", "I am sad", "I feel so lonely", "I feel empty", "I dont have anyone", "I am lonely", "Lonely", "I am so lone", "There is no one around me", "Im feeling alone in my thoughts", "Im experiencing solitude", "I still feel lonely"],
+    "patterns": ["I am feeling lonely", "I am so lonely", "I feel down", "I feel sad", "I am sad", "I feel so lonely", "I feel empty", "I dont have anyone", "I am lonely", "Lonely", "I am so lone", "There is no one around me", "Im feeling alone in my thoughts", "Im experiencing solitude", "I still feel lonely", "I am dejected", "dejected", "I feel dejected", "I am not happy", "not happy", "I dont feel great today.", "Im not good.", "not cheerful", "Im not fine", "I dont feel ok", "not ecstatic", "I am not ecstatic", "I dont feel ecstatic", "dont feel ecstatic"],
     "responses": ["Im sorry to hear that. Im here for you. Talking about it might help. So, tell me why do you think youre feeling this way?", "Im here for you. Could you tell me why youre feeling this way?", "Why do you think you feel this way?", "How long have you been feeling this way?", "It sounds like youre going through a difficult time. I want you to know that Im here for you.", "Im so sorry to hear that. Is there anything I can do to make you feel better?", "Im happy to help you in any way that I can." ]
     },
     {"tag": "stressed",
@@ -81,7 +81,7 @@
         "responses": ["It helps to talk about whats happening. Youre going to be okay", "Talk to me. Tell me more. It helps if you open up yourself to someone else.", "Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."]
     },
     {"tag": "happy",
-        "patterns": ["I feel great today.", "I am happy.", "I feel happy.", "Im good.", "cheerful", "Im fine", "I feel ok"],
+        "patterns": ["I feel great today.", "I am happy.", "I feel happy.", "Im good.", "cheerful", "Im fine", "I feel ok", "I am not sad.", "Im not dejected", "not dejected", "I am not feeling lonely", "not lonely", "I am not so lonely", "I dont feel down", "I dont feel sad", "I am not sad", "I dont feel so lonely", "I dont feel empty", "dont feel empty", "dont feel lonely"],
         "responses": ["Thats geat to hear. Im glad youre feeling this way.", "Oh i see. Thats great.", "Did something happen which made you feel this way?"]
     },
     {"tag": "casual",
@@ -767,7 +767,7 @@
   {
       "tag": "my time has come",
       "patterns": [
-          "my time has come.", "I think it's time.", "my hour has come.", "This is my hour.", "It's my time to shine.", "Its now or never.", "Its my shot." 
+          "my time has come.", "I think its time.", "my hour has come.", "This is my hour.", "It's my time to shine.", "Its now or never.", "Its my shot." 
       ],
       "responses": [
           "yeahh!! the time has come for you to show the world that you are the greatest person alive, and no one else can be as good as you are.", "yeahh!! the time has come for you to show the world who you are."
@@ -776,7 +776,7 @@
   {
       "tag": "I am feeling anxious lately.",
       "patterns": [
-          "I am feeling anxious lately.", "things scare me", "some stuff really be scaring mi witless"
+          "I am feeling anxious lately.", "things scare me", "some stuff really be scaring mi witless", "I am anxious", "I am scared of small things"
       ],
       "responses": [
           "I have heard that 3 3 3 rule is the best method to reduce anxiety. In this method, you have to mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body.this exercise can help your mind refocus on something else.give this method a try i am sure it will help you"
